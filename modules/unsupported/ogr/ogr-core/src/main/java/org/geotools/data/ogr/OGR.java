@@ -139,6 +139,8 @@ public interface OGR {
     int LayerSetFeature(Object layer, Object feature);
     
     int LayerCreateFeature(Object layer, Object feature);
+
+    String LayerGetFIDColumnName(Object layer);
     
     //
     // Field
