@@ -1,1 +1,2 @@
 org.geotools.geopkg.mosaic.GeoPackageFormatFactorySpi
+org.geotools.geopkg.coverage.GeoPackageFormatFactorySpi
